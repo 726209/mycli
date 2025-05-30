@@ -1,2 +1,5 @@
 # mycli
-command-line interface for Quick Tool
+
+Command-Line Interface for Quick Tool
+
+## Usage
